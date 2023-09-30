@@ -64,7 +64,7 @@ const Board = () => {
         setXScore(0);
         setOScore(0);
     }
-
+    console.log(state)
     return (
         <>
             <div className='flex  justify-center items-center mt-10'>
